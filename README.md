@@ -43,3 +43,23 @@ property aria-label gives the screen reader additional information to read out l
 <p aria-label="Artist">Armand Cabrera, 2010</p>
 ```
 
+## Supporting languages
+```
+<p lang="es-mx">
+  <span lang="nah"></span>
+</p>
+```
+
+* dir attribute
+
+```
+<html lang="en-gb" dir="ltr"></html>
+```
+
+```
+<head>
+<meta charset="UTF-8">
+</head>
+```
+
+
